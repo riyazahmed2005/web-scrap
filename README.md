@@ -1,4 +1,3 @@
-# web-scrap
 Web Scraping Project: Largest Companies in India (2023)
 
 This project demonstrates a Python script for web scraping to retrieve data about the largest companies in India for the year 2023 from a designated webpage. The script utilizes Python libraries such as requests, BeautifulSoup, and pandas for fetching, parsing, and structuring the data into a manageable format.
